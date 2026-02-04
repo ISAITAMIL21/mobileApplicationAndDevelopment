@@ -7,13 +7,10 @@ This folder contains the files and resources for Experiment 4 of the Mobile Appl
 This experiment focuses on building a **Temperature Converter** application. The app allows users to:
 - Input temperature in Celsius or Fahrenheit
 - Convert between Celsius (°C) and Fahrenheit (°F)
-- Swap conversion modes with a single tap
 - View results with precision (2 decimal places)
 
 ## Features
 
-- **Bidirectional Conversion**: Convert Celsius to Fahrenheit and vice versa
-- **Swap Functionality**: Toggle between conversion modes seamlessly
 - **Input Validation**: Handles user input with proper formatting
 - **Real-time Results**: Instant conversion on button click
 - **Clean UI**: Simple and intuitive interface built with Kotlin
@@ -27,14 +24,9 @@ This experiment focuses on building a **Temperature Converter** application. The
 
 ## Conversion Formulas
 
-- **Celsius to Fahrenheit**: °F = (°C × 1.8) + 32
 - **Fahrenheit to Celsius**: °C = (°F - 32) × 5/9
 
 ## UI
 
-<img width="381" height="617" alt="Screenshot 2026-02-02 171906" src="https://github.com/user-attachments/assets/9bfb1624-632d-489d-a4a4-87044e56d0e5" />
-
-## App Demo
-
-https://github.com/user-attachments/assets/978b2552-6086-42b1-9d87-a9643f2d92e6
+<img width="429" height="912" alt="image" src="https://github.com/user-attachments/assets/e049d8d4-33ff-4df2-8ea8-d09bfaef3f8b" />
 
